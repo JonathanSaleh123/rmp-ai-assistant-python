@@ -1,10 +1,214 @@
 {
     "reviews": [
-      {
-        "professor": "Prof1",
-        "review": "Great professor...",
-        "subject": "Math",
-        "stars": 5
-      }
+            {
+                "professor": "John DeNero",
+                "review": "Very organized class with tons of resources. Easy with coding knowledge. MT2 is the hardest. No curves. Hard topics include tree, recursion. Recent past exams are useful for test prep. Homework is easy. Projects are challenging. Watch the videos before class. A wide division in the class between ppl knows how to code vs. ppl first-time coding.",
+                "subject": "CS61A",
+                "rating": 5.0,
+                "date": "Aug 13th, 2024"
+            },
+            {
+                "professor": "John DeNero",
+                "review": "Most concepts will not be in the lecture but in the videos. The pace can be fast for students without coding experiences. The course is easy as there are a lot of resources available for students. Good utilization of those can guarantee you to achieve good grades on exams. There was some extra credit if you turned in your work early.",
+                "subject": "CS61A",
+                "rating": 4.0,
+                "date": "Jun 23rd, 2024"
+            },
+            {
+                "professor": "John DeNero",
+                "review": "As someone with no previous coding experience, this class was very hard to do well in. It is very easy to pass the class though if you finish all of the homeworks, labs, & projects. The exams are extremely hard, partial credit is nice though. Lecture format was not for me, had to watch videos before class. Study with other people & pray on exams",
+                "subject": "61A",
+                "rating": 5.0,
+                "date": "May 18th, 2024"
+            },
+            {
+                "professor": "John DeNero",
+                "review": "I struggled in this class, partly due to the format (videos to watch before each lecture that cover most of material while lecture is more for review). This style was difficult for me, although I know it works well for other people. That being said, I should've used OH and other supplemental materials more, which I would say is big for this course",
+                "subject": "CS61A",
+                "rating": 3.0,
+                "date": "May 17th, 2024"
+            },
+            {
+                "professor": "John DeNero",
+                "review": "Fantastic professor, it's very obvious how passionate he is about the subject- evidently cares about his students  as well. Steep learning curve (for someone who's never coded before) but u just have to lock in and do all the homeworks/ask for help on labs. The tests are difficult but you learn so much from this class.",
+                "subject": "CS61A",
+                "rating": 5.0,
+                "date": "May 17th, 2024"
+            },
+            {
+                "professor": "John DeNero",
+                "review": "Really funny guy, but you could tell especially from his last lecture that he cares a lot about this subject and its impacts on the world as a whole. He's a great teacher, but this class is honestly a lot more dependent on your own efforts regardless of how good the professor is.",
+                "subject": "61A",
+                "rating": 5.0,
+                "date": "May 5th, 2024"
+            },
+            {
+                "professor": "John DeNero",
+                "review": "a great professor. lectures are very clear and provides plenty examples in class time. very organized and funny too! one of the best professors in uc berkeley.",
+                "subject": "CS61A",
+                "rating": 5.0,
+                "date": "May 1st, 2024"
+            },
+            {
+                "professor": "John DeNero",
+                "review": "Best Introductory Course for CS ever",
+                "subject": "CS61A",
+                "rating": 5.0,
+                "date": "Apr 12th, 2024"
+            },
+            {
+                "professor": "John DeNero",
+                "review": "Unbelievably talented and diligent professor who is great at teaching material. The EECS/CDSS department is lucky to have this legend.",
+                "subject": "61A",
+                "rating": 5.0,
+                "date": "Mar 20th, 2024"
+            },
+            {
+                "professor": "John DeNero",
+                "review": "Professor DeNero was amazing and he re-sparked my love for computer science. Not only does care and help students during labs and discussions, but he also is hilarious and his lectures are just a joy to attend. Shout out to the scheme art contest and the kpop dance group during the first lecture.",
+                "subject": "CS61A",
+                "rating": 5.0,
+                "date": "Jan 26th, 2024"
+            },
+            {
+                "professor": "John DeNero",
+                "review": "THE GOAT PROFESSOR :) Inspires me to pursuit a CS major!",
+                "subject": "61A",
+                "rating": 5.0,
+                "date": "Jan 26th, 2024"
+            },
+            {
+                "professor": "John DeNero",
+                "review": "A bubbly personality to keep me and other students going in the TOUGH introductory curriculum of Computer science. Communicates his office hours availabilities, responds to emails fast, and can just walk up to him. After each class there usually is a line though.",
+                "subject": "CS61A",
+                "rating": 5.0,
+                "date": "Dec 30th, 2023"
+            },
+            {
+                "professor": "John DeNero",
+                "review": "The exams were too hard compared to homework, labs, and projects. Whatever you practice during the semester, expect it to be twice as hard on the exams. Scheme was the least enjoyable part of the course, ... and useless...",
+                "subject": "61A",
+                "rating": 1.0,
+                "date": "Dec 26th, 2023"
+            },
+            {
+                "professor": "John DeNero",
+                "review": "Denero is a unique professor to take in CS61A. Use clear examples that explain code and the strategies you can expect from solving complex tasks/problems. He welcomes any questions that arise mid-lecture lecture, allowing students to ask a variety of coding solutions or general questions. Great professor for any student (even freshmen/transfer)!",
+                "subject": "61A",
+                "rating": 5.0,
+                "date": "Dec 24th, 2023"
+            },
+            {
+                "professor": "John DeNero",
+                "review": "Inspiring. The best. The greatest. GOAT",
+                "subject": "61A",
+                "rating": 5.0,
+                "date": "Dec 21st, 2023"
+            },
+            {
+                "professor": "John DeNero",
+                "review": "really good at explaining concepts, encourages questions & won't make you feel stupid when you ask questions during lab/lecture, super nice and approachable outside of class too (like on ed or via email)\n\nthe class grade bins are pretty difficult if you're aiming for an A/A+ but still somewhat doable if you get all the EC/hw/lab/discussion points",
+                "subject": "61A",
+                "rating": 5.0,
+                "date": "Dec 21st, 2023"
+            },
+            {
+                "professor": "John DeNero",
+                "review": "Amazing professor to introduce students to CS & Berkeley. 61A exams are tough but he's very accessible and there's a clear path to success if you put in the work. Lectures are great and he has a way of conveying key ideas in a simple way. Prof. DeNero made 61A amazing.",
+                "subject": "CS61A",
+                "rating": 5.0,
+                "date": "Dec 15th, 2023"
+            },
+            {
+                "professor": "John DeNero",
+                "review": "Genuinely one of the best professors at Berkeley. There is a reason he is regarded as the GOAT.",
+                "subject": "CS61A",
+                "rating": 5.0,
+                "date": "Dec 7th, 2023"
+            },
+            {
+                "professor": "John DeNero",
+                "review": "Good professor who has a good sense of humor. 61a for me was just very hard, but grade bins are fair enough to pass (C) even if you basically bomb all your exams.",
+                "subject": "61A",
+                "rating": 4.0,
+                "date": "Dec 5th, 2023"
+            },
+            {
+                "professor": "John DeNero",
+                "review": "great lectures but very hard exams",
+                "subject": "61A",
+                "rating": 5.0,
+                "date": "Nov 27th, 2023"
+            },
+            {
+                "professor": "Gerald Benoit",
+                "review": "I dreaded taking a class online based on several past experiences but Dr. Benoit's class was better than any others I've taken. His expectations are clear and the lectures are fun. His assignments are hard but helpful. After finishing his class, I am confident with python and also understand computing in general so much better than before",
+                "subject": "DATASCI200",
+                "rating": 5.0,
+                "date": "Aug 23rd, 2023"
+            },
+            {
+                "professor": "Gerald Benoit",
+                "review": "Benoit was a great professor for Python. My class included students already with enormous amounts of Python experience (I had coding experience, but not Python) as well as students who had never approached the subject. He made the course engaging for those of us who had worked in CS before, and made novice students feel confident with the material.",
+                "subject": "DATASCI200",
+                "rating": 4.0,
+                "date": "Aug 23rd, 2023"
+            },
+            {
+                "professor": "Gerald Benoit",
+                "review": "Fairly tough class but interesting and enjoyable. Dr. Benoit's lectures are engaging and he creates assignments that are approachable without making them too easy. Some people in my class were clearly already proficient with the material while some people had no experience at all.",
+                "subject": "DATASCI200",
+                "rating": 5.0,
+                "date": "Aug 15th, 2023"
+            },
+            {
+                "professor": "Gerald Benoit",
+                "review": "I know some programming, never got \"bigger picture\" til now, or the basics to create a framework for understanding all of computing, for problem-solving until now. He handled students who shdn't have been in the course (with CS and DS degrees & with lots of experience on the job) along with people new to coding. He covered all! Caring & friendly",
+                "subject": "DATASCI200",
+                "rating": 5.0,
+                "date": "Jun 20th, 2023"
+            },
+            {
+                "professor": "Gerald Benoit",
+                "review": "Taking Python with Dr. Benoit & loving it. The class includes experienced programmers and novices (I am somewhere in the middle) and he makes it work well for all of us. Hoping to take another course with him in the future if possible.",
+                "subject": "DATASCI200",
+                "rating": 5.0,
+                "date": "Oct 10th, 2022"
+            },
+            {
+                "professor": "Gerald Benoit",
+                "review": "Gerry is our Python instructor. He is an amazing instructor. I learned so many new things from him even if I have done some programming before. He makes the class fun, engaging, and interactive. He provides positive feedback.",
+                "subject": "DATASCI200",
+                "rating": 5.0,
+                "date": "May 9th, 2022"
+            },
+            {
+                "professor": "Gerald Benoit",
+                "review": "Dr. Benoit made studying Python enjoyable and straightforward. Online courses have always been a peeve of mine but he ran this class well. Other students and I enjoyed his lectures and his friendly, clever personality.",
+                "subject": "DATASCI200",
+                "rating": 5.0,
+                "date": "May 20th, 2019"
+            },
+            {
+                "professor": "Gerald Benoit",
+                "review": "Benoit is great. Whatever Berkeley is paying him... It isnt enough! One of the most talented lecturers I have encountered, particularly for a technical course such as Python.",
+                "subject": "DATASCI200",
+                "rating": 5.0,
+                "date": "Aug 6th, 2018"
+            },
+            {
+                "professor": "Gerald Benoit",
+                "review": "Such a nice guy and helpful professor. Gets excited about the material during every class which makes the course more enjoyable. Would recommend Benoit to anybody.",
+                "subject": "DATASCI200",
+                "rating": 5.0,
+                "date": "Aug 5th, 2018"
+            },
+            {
+                "professor": "Gerald Benoit",
+                "review": "Dr. Benoit is an absolute delight! His lectures are well-planned and engaging. He exhibits his passions for information science and teaching in every class. Benoit genuinely cares about the success of his students, and pays close attention to the class-comprehension as well as the comprehension of each individual. A truly outstanding professor!",
+                "subject": "DATASCI200",
+                "rating": 5.0,
+                "date": "Jul 31st, 2018"
+            }
     ]
-  }
+}

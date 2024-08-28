@@ -8,16 +8,16 @@ import json
 # Initialize Pinecone
 pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
 
-# Create a Pinecone index
-pc.create_index(
-    name="rag",
-    dimension=1536,
-    metric="cosine",
-    spec=ServerlessSpec(cloud="aws", region="us-east-1"),
-)
+# # Create a Pinecone index
+# pc.create_index(
+#     name="rag",
+#     dimension=1536,
+#     metric="cosine",
+#     spec=ServerlessSpec(cloud="aws", region="us-east-1"),
+# )
 
 # Load the review data
-data = json.load(open("reviews.json"))
+data = json.load(open("data/reviews.json"))
 
 processed_data = []
 client = OpenAI()
@@ -35,7 +35,8 @@ for review in data["reviews"]:
             "metadata":{
                 "review": review["review"],
                 "subject": review["subject"],
-                "stars": review["stars"],
+                "rating": review["rating"],
+                "date": review["date"]
             }
         }
     )
